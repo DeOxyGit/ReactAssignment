@@ -1,0 +1,19 @@
+*{
+  padding: 0 ;
+}
+
+a{
+  color: lightgreen;
+}
+li :hover{
+  color:red;
+}
+.Fsite{
+  margin: 20px;
+}
+
+li{
+  list-style-type: none;
+}
+
+
